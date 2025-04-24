@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hi! I'm Celia <br>  🌱-Developer sharing about my journey and learnings in tech.<br>  <br>  ⚡-Studied multiplatform application development at Cesur, Zaragoza.<br>  <br>  😄-Making videos about my life, tech and productivity on 🌐 - [Check out my portfolio!](https://portfolio-git-main-celia-urcolas-projects.vercel.app/)Youtube.<br><br>   [![Eyra0405's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyra0405&show_icons=true&theme=radical)](https://github.com/Eyra0405/github-readme-stats)<br>
+### Hi! I'm Celia <br>  🌱-Developer sharing about my journey and learnings in tech.<br>  <br>  ⚡-Studied multiplatform application development at Cesur, Zaragoza.<br>  <br>  😄-Making videos about my life, tech and productivity on Youtube.<br> <br> 🌐 - [Check out my portfolio!](https://portfolio-git-main-celia-urcolas-projects.vercel.app/) <br>
+<br>   [![Eyra0405's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyra0405&show_icons=true&theme=radical)](https://github.com/Eyra0405/github-readme-stats)<br>
 
 
 ## 🌐 Socials:
